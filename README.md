@@ -1,2 +1,3 @@
-# enswmatwmena_final
-TELIKH ERGASIA STA ENSWMATWMENA
+# embedded_systems
+Final school project
+
